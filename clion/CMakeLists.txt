@@ -4,4 +4,4 @@ project(clion)
 set(CMAKE_CXX_FLAGS "${CMAKE_CXX_FLAGS} -std=c++11")
 
 #set(SOURCE_FILES main.cpp)
-add_executable(clion ${SOURCE_FILES} s7-3-2.c)
+add_executable(clion ${SOURCE_FILES} s7-4-3.c)
